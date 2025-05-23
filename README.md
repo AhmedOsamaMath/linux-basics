@@ -17,6 +17,7 @@ Welcome to the **Linux Basics** repository! This repository contains a comprehen
 - [Terminal Basics](./02.%20Getting%20Started%20with%20the%20Terminal/1.%20Terminal%20Basics.md)
 - [Linux Paths](./02.%20Getting%20Started%20with%20the%20Terminal/2.%20Linux%20Paths.md)
 - [File System Overview](./02.%20Getting%20Started%20with%20the%20Terminal/3.%20File%20System%20Overview.md)
+- [Environment Variables](./02.%20Getting%20Started%20with%20the%20Terminal/4.%20Environment%20Variables.md)
 
 ### 3. **Working with Files and Directories**
 - [Files and Directories](./03.%20Working%20with%20Files%20and%20Directories/1.%20Files%20and%20Directories.md)
@@ -45,6 +46,7 @@ Welcome to the **Linux Basics** repository! This repository contains a comprehen
 - [Redirections](./07.%20Data%20Processing/2.%20Redirections.md)
 
 ### 8. **System Administration**
+- [Understanding the Boot Process](./08.%20System%20Administration/0.%20Understanding%20the%20Boot%20Process.md)
 - [Managing Services](./08.%20System%20Administration/1.%20Managing%20Services.md)
 - [Process Management](./08.%20System%20Administration/2.%20Process%20Management.md)
 - [Scheduling Tasks (Cron)](./08.%20System%20Administration/3.%20Scheduling%20Tasks%20(Cron).md)
